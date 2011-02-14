@@ -2,6 +2,7 @@
  * Nunchuk - USB Converter
  * by
  * dSanchez
+ * v1.3
  * Hacked from kero905's Wii extension controller to USB Hid project v 0.01a
  * In turn based on Objective Development's V-USB
  * License: GNU General Public License Version 2 (GPL)
