@@ -1,0 +1,2 @@
+avrdude -B 1 -c avrispmkII -p m328p -P usb -U flash:w:wii2usb.hex
+
