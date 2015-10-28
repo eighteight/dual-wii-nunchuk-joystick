@@ -1,0 +1,1 @@
+ATMega328 source code and hex file to convert two I2C-compatible Wii nunchuks into one USB joystick.
